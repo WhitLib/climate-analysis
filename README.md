@@ -28,7 +28,7 @@ To determine if the surf and shake shop would be sustainable year round, W Avy a
 
 ## 3 Summary
 
-Overall, based on the results, Oahu is a good fit to run a sustainable, year round surf and shake shop. To be certain, two additional queries were created to ensure
+Overall, based on the results, Oahu is a good fit to run a sustainable, year round surf and shake shop. Even while December had 183 less observations than June, it can be assumed that any missing data would not have significantly changed the results for the month. It is to be expected that in winter months (December), temperatures are cooler than in summer months (June). But, since Oahu is well-known to be a vacation destination primarily for its consistent weather, the temperature differentials are not extreme. To be certain, two additional queries were created to ensure
 that the weather was ideal for the shop: 
 
 <p align="center"> Retrieving precipitation measurements for June and December</p>
@@ -41,9 +41,9 @@ that the weather was ideal for the shop:
 <p align="center"> Determine which of active station(s) recorded temperature and precipitation data for June and December</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95978097/156495799-3e4e9baa-5021-49ae-a8ea-724b8e909c9e.png" />
-  <img src="https://user-images.githubusercontent.com/95978097/156495828-17145b27-dbf9-47fc-a6ef-c1323fe5addb.png" />
+  <img src="https://user-images.githubusercontent.com/95978097/156498636-1beab0d3-8c9f-45bb-9fa9-d90fde4fdfb2.png" />
+  <img src="https://user-images.githubusercontent.com/95978097/156498746-2df17077-85aa-4dc9-a6c1-d14b79619f92.png" />
 </p>
 
-
+Both June and December had some precipitation but based on the temperature results, even with precipitation, temperatures remain relatively warm and suitable for both surfing and ice cream. Additionally, based on the most active stations list retrieved in the module, all 9 stations recorded weather data for June and December.
 
