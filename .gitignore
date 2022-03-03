@@ -26,6 +26,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+#app.py
+app.py
+#.DS_Store
+.DS_Store
+#climate_analysis.ipynb
+climate_analysis.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
